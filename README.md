@@ -2,13 +2,15 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
-
-### <div align="center">I'm Waseem Qaffaf
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waseem Qaffaf
+### <div align="center">
 VP of the Cyber Security club at RIT-Dubai. Looking for Co-OP in the field of Cloud &/or CyberSecurity to enhance my Skills!</div>  
   
 
-- 🌱 I’m currently studying for AWS Cloud Practitioner
-- 📫 How to reach me **realwaseemqaffaf@gmial.com**
+-  🌱 I’m currently studying for AWS Cloud Practitioner
+-  🌍  I'm based in Dubai, United Arab Emirates.
+-  📫  You can contact me at [realwaseemqaffaf@gmail.com](mailto:realwaseemqaffaf@gmail.com)
+-  🧠  I'm currently developing my skills in Malware Analysis!
   
 
 <br/>  
