@@ -27,7 +27,12 @@ VP of the Cyber Security club at RIT-Dubai. Looking for Co-OP in the field of Cl
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+
+<a href="https://www.docker.com/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+
+<a href="http://www.egr.unlv.edu/~ed/x86.html" target="_blank" >
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" height="80" alt="x86 Assembly" /></a>
 </div>  
 
 <br/>  
@@ -70,15 +75,6 @@ VP of the Cyber Security club at RIT-Dubai. Looking for Co-OP in the field of Cl
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waseemRIT&show_icons=true&count_private=true&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemrit&" alt="waseemrit"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waseemrit&show_icons=true&locale=en&layout=compact" alt="waseemrit" />
 </div>
 <br/>  
-
-
-</br>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=waseemRIT&&style=flat-square" align="center" />
-</div>  
-  
-
-
