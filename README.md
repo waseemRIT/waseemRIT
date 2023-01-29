@@ -47,6 +47,11 @@ VP of the Cyber Security club at RIT-Dubai. Looking for Co-OP in the field of Cl
 
 ## Recent YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Finding Remainder | Simple &amp; Quick](https://www.youtube.com/watch?v=K5mhPhIDHb0)
+- [Rocky Linux VirtualBox Setup](https://www.youtube.com/watch?v=Ut1Ulnd84S4)
+- [substitution techniques| The Integration Series | 15](https://www.youtube.com/watch?v=8juix_VWt3o)
+- [substitution techniques| The Integration Series | 14](https://www.youtube.com/watch?v=dcf0QzWRrfw)
+- [substitution techniques| The Integration Series | 13](https://www.youtube.com/watch?v=pwHjnFE38vs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->  
 
 <br/>  
