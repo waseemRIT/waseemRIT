@@ -1,7 +1,16 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waseem Qaffaf
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waseem Qaffaf
+
 ### <div align="center">
-VP of the Cyber Security club at RIT-Dubai. Looking for Co-OP in the field of Cloud &/or CyberSecurity to enhance my Skills!</div>  
-  
+</br>
+<p style="text-align:center;">
+Vice President of the Rochester Institute of Technology's Cyber Security Club. Every day, I strive to learn new technologies. I am passionate 
+about teaching people what I have learned, thus I organize activities for students, and I also have a YouTube channel dedicated to IT topics 
+ranging from programming to networking. Seeking an internship in the Cybersecurity and Cloud fields at your prominent organization.<br><br>
+Available Starting from June!
+</p>
+</div>
+
+</br></br>
 
 -  🌱 I’m currently studying for AWS Cloud Practitioner
 -  🌍  I'm based in Dubai, United Arab Emirates.
