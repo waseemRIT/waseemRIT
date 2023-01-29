@@ -35,6 +35,11 @@ VP of the Cyber Security club at RIT-Dubai. Looking for Co-OP in the field of Cl
 ## 📕 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->  
+<br/>
+
+## Recent YouTube Videos
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->  
 
 <br/>  
 
