@@ -69,7 +69,6 @@ VP of the Cyber Security club at RIT-Dubai. Looking for Co-OP in the field of Cl
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waseemRIT&show_icons=true&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=waseemrit&show_icons=true&locale=en" alt="waseemrit"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemrit&" alt="waseemrit"/>
 </div>
 <br/>  
