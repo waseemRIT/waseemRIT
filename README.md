@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
 
@@ -7,7 +7,8 @@
 VP of the Cyber Security club at RIT-Dubai. Looking for Co-OP in the field of Cloud &/or CyberSecurity to enhance my Skills!</div>  
   
 
-- 🌱 I’m currently studying for AWS Cloud Practitioner  
+- 🌱 I’m currently studying for AWS Cloud Practitioner
+- 📫 How to reach me **realwaseemqaffaf@gmial.com**
   
 
 <br/>  
@@ -31,8 +32,13 @@ VP of the Cyber Security club at RIT-Dubai. Looking for Co-OP in the field of Cl
 
 <br/>  
 
+## 📕 Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->  
 
-## Connect with me  
+<br/>  
+
+## 🔗 Connect with me  
 <div align="center">
 <a href="https://github.com/waseemRIT" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -46,7 +52,7 @@ VP of the Cyber Security club at RIT-Dubai. Looking for Co-OP in the field of Cl
 <a href="https://medium.com/@realwaseemqaffaf" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/professorseemo1166" target="_blank">
+<a href="https://www.youtube.com/@professorseemo1166" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -56,35 +62,19 @@ VP of the Cyber Security club at RIT-Dubai. Looking for Co-OP in the field of Cl
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=waseemRIT&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waseemRIT&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waseemrit&show_icons=true&locale=en" alt="waseemrit"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemrit&" alt="waseemrit"/>
+</div>
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
+</br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=waseemRIT&&style=flat-square" align="center" />
 </div>  
   
 
-<br/>  
 
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
