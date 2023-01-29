@@ -39,6 +39,11 @@ VP of the Cyber Security club at RIT-Dubai. Looking for Co-OP in the field of Cl
 
 ## 📕 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Man-in-the-Middle Attacks: Understanding and Protecting Against this Stealthy Cyber Threat](https://medium.com/@realwaseemqaffaf/man-in-the-middle-attacks-understanding-and-protecting-against-this-stealthy-cyber-threat-941cee2ce156?source=rss-141971c4db9c------2)
+- [The Metaverse and the Legal Technology Industry: Virtual Law Practice Solutions](https://medium.com/@realwaseemqaffaf/the-metaverse-and-the-legal-technology-industry-virtual-law-practice-solutions-ba023ce2b10c?source=rss-141971c4db9c------2)
+- [The Three Factors of Authentication Protecting Your Data and Identity](https://medium.com/@realwaseemqaffaf/the-three-factors-of-authentication-protecting-your-data-and-identity-3379b620c655?source=rss-141971c4db9c------2)
+- [Zero-Day Vulnerabilities A Serious Threat to Cybersecurity](https://medium.com/@realwaseemqaffaf/zero-day-vulnerabilities-a-serious-threat-to-cybersecurity-40ad61d77d26?source=rss-141971c4db9c------2)
+- [APT Attacks: A Threat to Cybersecurity That Can’t Be Ignored](https://medium.com/@realwaseemqaffaf/apt-attacks-a-threat-to-cybersecurity-that-cant-be-ignored-d1baada5a2be?source=rss-141971c4db9c------2)
 <!-- BLOG-POST-LIST:END -->  
 <br/>
 
