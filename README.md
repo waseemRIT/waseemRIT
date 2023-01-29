@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-  
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waseem Qaffaf
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waseem Qaffaf
 ### <div align="center">
 VP of the Cyber Security club at RIT-Dubai. Looking for Co-OP in the field of Cloud &/or CyberSecurity to enhance my Skills!</div>  
   
@@ -82,6 +78,6 @@ VP of the Cyber Security club at RIT-Dubai. Looking for Co-OP in the field of Cl
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waseemRIT&show_icons=true&count_private=true&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemrit&" alt="waseemrit"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waseemrit&show_icons=true&locale=en&layout=compact" alt="waseemrit" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waseemrit&show_icons=true&locale=en&layout=compact" alt="waseemrit" />
 </div>
 <br/>  
