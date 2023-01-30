@@ -74,7 +74,7 @@ Available Starting from June!
 <!-- BLOG-POST-LIST:END -->  
 <br/>
 
-## Recent YouTube Videos
+## 📹 Recent YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Finding Remainder | Simple &amp; Quick](https://www.youtube.com/watch?v=K5mhPhIDHb0)
 - [Rocky Linux VirtualBox Setup](https://www.youtube.com/watch?v=Ut1Ulnd84S4)
