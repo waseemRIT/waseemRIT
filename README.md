@@ -15,7 +15,7 @@ Available Starting from June!
 -  🌱 I’m currently studying for AWS Cloud Practitioner
 -  🌍  I'm based in Dubai, United Arab Emirates.
 -  📫  You can contact me at [realwaseemqaffaf@gmail.com](mailto:realwaseemqaffaf@gmail.com)
--  🧠  I'm currently developing my skills in Malware Analysis!
+-  🧠  I'm currently developing my skills in Malware Analysis and Cloud Technologies !
   
 
 <br/>  
