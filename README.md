@@ -3,10 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### <div align="center">
 </br>
 <p style="text-align:center;">
-Vice President of the Rochester Institute of Technology's Cyber Security Club. Every day, I strive to learn new technologies. I am passionate 
-about teaching people what I have learned, thus I organize activities for students, and I also have a YouTube channel dedicated to IT topics 
-ranging from programming to networking. Seeking an internship in the Cybersecurity and Cloud fields at your prominent organization.<br><br>
-Available Starting from June!
+
+**President of RIT's Cyber Security Club**. A dedicated technophile, I'm always on the frontier of the latest in the tech domain. My commitment to sharing knowledge extends from student-centric activities to my **YouTube channel**, where I illuminate myriad IT topics, from development to networking. A proud holder of the **AWS Cloud Practitioner** certification, I am currently delving deep into ethical hacking practices, preparing for the **OSCP exam**. Eager to embrace further challenges and opportunities in the realms of **Cybersecurity and Cloud**.
 </p>
 </div>
 
