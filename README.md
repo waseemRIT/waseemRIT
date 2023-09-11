@@ -10,10 +10,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </br></br>
 
--  🌱 I’m currently studying for AWS Cloud Practitioner
+-  🌱 I’m AWS Cloud Practitioner Certified.
 -  🌍  I'm based in Dubai, United Arab Emirates.
 -  📫  You can contact me at [realwaseemqaffaf@gmail.com](mailto:realwaseemqaffaf@gmail.com)
--  🧠  I'm currently developing my skills in Malware Analysis and Cloud Technologies !
+-  🧠  I'm currently developing my skills in Malware Analysis and Cloud Technologies!
   
 
 <br/>  
