@@ -74,11 +74,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 📹 Recent YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Asymmetric Encryption: Essentials Explained](https://www.youtube.com/watch?v=D9yDBJEwNUA)
 - [Symmetric Encryption: Essentials Explained](https://www.youtube.com/watch?v=QlzK09PPOtI)
 - [Revolutionize Your Study Routine with AI | Discover with Prof. Seemo](https://www.youtube.com/watch?v=CBEtWtjk7Qs)
 - [Finding Remainder | Simple &amp; Quick](https://www.youtube.com/watch?v=K5mhPhIDHb0)
 - [Rocky Linux VirtualBox Setup](https://www.youtube.com/watch?v=Ut1Ulnd84S4)
-- [substitution techniques| The Integration Series | 15](https://www.youtube.com/watch?v=8juix_VWt3o)
 <!-- YOUTUBE-VIDEOS-LIST:END -->  
 
 <br/>  
