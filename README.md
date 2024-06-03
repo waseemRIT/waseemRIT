@@ -74,7 +74,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 📹 Recent YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [RSA | How it Works | Security](https://www.youtube.com/watch?v=Vg0SJek6D2w)
+- [RSA | How it Works](https://www.youtube.com/watch?v=Vg0SJek6D2w)
 - [RSA Explained: The Bedrock of Cryptography](https://www.youtube.com/watch?v=TKvck57V90c)
 - [Asymmetric Encryption: Essentials Explained](https://www.youtube.com/watch?v=D9yDBJEwNUA)
 - [Symmetric Encryption: Essentials Explained](https://www.youtube.com/watch?v=QlzK09PPOtI)
