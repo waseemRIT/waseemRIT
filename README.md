@@ -74,11 +74,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 📹 Recent YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [A calendar invite turned on his boiler. 😳 #aisecurity #cybersecurity #ai](https://www.youtube.com/shorts/W3pi-cyU3K8)
 - [A calendar invite turned on his boiler😳](https://www.youtube.com/shorts/ujs3w_kgnnU)
 - [EchoLeak, Is your AI safe? 👀](https://www.youtube.com/shorts/tr3H57GuSLc)
 - [The Fundamentals of ElGamal Encryption Explained](https://www.youtube.com/watch?v=aMCkv-0w39Y)
 - [Introduction to ElGamal Encryption](https://www.youtube.com/watch?v=w-CdHstAvdA)
-- [deffihellman man in middle](https://www.youtube.com/watch?v=pINQj91sl9M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->  
 
 <br/>  
