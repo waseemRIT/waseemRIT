@@ -74,11 +74,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 📹 Recent YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Your AI Gave You Directions to a House That Doesn&#39;t Exist 🏠](https://www.youtube.com/shorts/FWUq55teIbA)
 - [EP04 Postmark MCP v1](https://www.youtube.com/shorts/kI3U4beXF98)
-- [A calendar invite turned on his boiler. 😳 #aisecurity #cybersecurity #ai](https://www.youtube.com/shorts/W3pi-cyU3K8)
+- [An official update told an AI to wipe your machine. Only a typo stopped it. 😳](https://www.youtube.com/shorts/W3pi-cyU3K8)
 - [A calendar invite turned on his boiler😳](https://www.youtube.com/shorts/ujs3w_kgnnU)
 - [EchoLeak, Is your AI safe? 👀](https://www.youtube.com/shorts/tr3H57GuSLc)
-- [The Fundamentals of ElGamal Encryption Explained](https://www.youtube.com/watch?v=aMCkv-0w39Y)
 <!-- YOUTUBE-VIDEOS-LIST:END -->  
 
 <br/>  
