@@ -74,11 +74,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 📹 Recent YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Morris II: the AI worm that spreads through email assistants](https://www.youtube.com/shorts/l2oPaGn5vzU)
 - [Your AI Gave You Directions to a House That Doesn&#39;t Exist 🏠](https://www.youtube.com/shorts/FWUq55teIbA)
-- [EP04 Postmark MCP v1](https://www.youtube.com/shorts/kI3U4beXF98)
+- [Postmark MCP AI Attack](https://www.youtube.com/shorts/kI3U4beXF98)
 - [An official update told an AI to wipe your machine. Only a typo stopped it. 😳](https://www.youtube.com/shorts/W3pi-cyU3K8)
 - [A calendar invite turned on his boiler😳](https://www.youtube.com/shorts/ujs3w_kgnnU)
-- [EchoLeak, Is your AI safe? 👀](https://www.youtube.com/shorts/tr3H57GuSLc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->  
 
 <br/>  
