@@ -74,11 +74,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 📹 Recent YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Beat All 7 OSI Layers… Then Defeat the Man-in-the-Middle Boss 🔒](https://www.youtube.com/shorts/PpVQBfW7i3M)
+- [Packet Rider by professor seemo](https://www.youtube.com/shorts/PNm2jdaX0M8)
 - [PoisonGPT: the AI with one letter missing from its name #aisecurity #chatgpt #cybersecurity #openai](https://www.youtube.com/shorts/K5aEojgvlMY)
 - [Morris II: the AI worm that spreads through email assistants](https://www.youtube.com/shorts/l2oPaGn5vzU)
 - [Your AI Gave You Directions to a House That Doesn&#39;t Exist 🏠](https://www.youtube.com/shorts/FWUq55teIbA)
-- [Postmark MCP AI Attack](https://www.youtube.com/shorts/kI3U4beXF98)
-- [An official update told an AI to wipe your machine. Only a typo stopped it. 😳](https://www.youtube.com/shorts/W3pi-cyU3K8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->  
 
 <br/>  
